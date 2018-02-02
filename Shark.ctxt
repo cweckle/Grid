@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Shark()
+comment1.params=actors
+comment1.target=void\ processActors(java.util.ArrayList)
+comment2.params=next
+comment2.target=boolean\ checkBreed(info.gridworld.actor.Actor)
+comment3.params=canEat
+comment3.target=void\ munchies(java.util.ArrayList)
+comment4.params=canBreed
+comment4.target=void\ makeBabies(boolean)
+comment5.params=
+comment5.target=void\ age()
+comment6.params=loc
+comment6.target=void\ makeMove(info.gridworld.grid.Location)
+numComments=7
